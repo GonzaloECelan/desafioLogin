@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(154, 79, 79);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form{
+    width: 400px;
+    height: 500px;
+    border: 1px solid black;
+}
